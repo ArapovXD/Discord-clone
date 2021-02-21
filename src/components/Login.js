@@ -13,7 +13,7 @@ function Login({dispatch}) {
     return (
         <div className="login">
             <div className="login-logo">
-                <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/discord_94308.png" alt=""/>
+                <img src="https://firebasestorage.googleapis.com/v0/b/discord-c81fd.appspot.com/o/logo.png?alt=media&token=ecf2c173-ea98-4d63-84e9-4403ed9fc01c" alt=""/>
             </div>
             <Button onClick={signIn}>Sign In</Button>
         </div>
